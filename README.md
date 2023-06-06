@@ -33,16 +33,5 @@ python app.py --device cuda:0
 ```
 
 
-## :book: Citation
-If you find this work useful for your research or applications, please cite using this BibTeX:
-```bibtex
-@misc{yang2023track,
-      title={Track Anything: Segment Anything Meets Videos}, 
-      author={Jinyu Yang and Mingqi Gao and Zhe Li and Shang Gao and Fangjing Wang and Feng Zheng},
-      year={2023},
-      eprint={2304.11968},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
+
 
