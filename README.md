@@ -1,9 +1,8 @@
+## Video-objective-segmentation
 
+***Segmentation Anything***  is a state-of-the-art computer vision technique (https://github.com/facebookresearch/segment-anything) that involves the process of dividing an image into multiple segments or regions based on certain criteria. 
 
-***Track-Anything*** is a flexible and interactive tool for video object tracking and segmentation. It is developed upon [Segment Anything](https://github.com/facebookresearch/segment-anything), can specify anything to track and segment via user clicks only. During tracking, users can flexibly change the objects they wanna track or correct the region of interest if there are any ambiguities. These characteristics enable ***Track-Anything*** to be suitable for: 
-- Video object tracking and segmentation with shot changes. 
-- Visualized development and data annotation for video object tracking and segmentation.
-- Object-centric downstream video tasks, such as video inpainting and editing. 
+***Track-Anything*** is a flexible and interactive tool (https://github.com/gaomingqi/Track-Anything) for video object tracking and segmentation. Users can modify the objects they wish to track or update the region of interest in case of any ambiguities during tracking.
 
 <div align=center>
 <img src="./assets/avengers.gif" width="81%"/>
@@ -12,7 +11,7 @@
 <!-- ![avengers]() -->
 
 
-## :world_map: Video Tutorials ([Track-Anything Tutorials in Steps](./doc/tutorials.md))
+## :world_map: Video Tutorials 
 
 https://user-images.githubusercontent.com/30309970/234902447-a4c59718-fcfe-443a-bd18-2f3f775cfc13.mp4
 
